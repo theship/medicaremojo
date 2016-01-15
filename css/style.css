@@ -499,8 +499,12 @@ Animation keyframes
     flex-direction: column;
   }
   nav ul li {
+    -webkit-flex-basis: 25%;
+    -ms-flex-preferred-size: 25%;
+    flex-basis: 25%;
     height: 15%;
   }
+    
   nav ul li a {
     font-size: 11px;
         letter-spacing: 3px;
