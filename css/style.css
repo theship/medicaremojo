@@ -499,9 +499,9 @@ Animation keyframes
     flex-direction: column;
   }
   nav ul li {
-    -webkit-flex-basis: 25%;
-    -ms-flex-preferred-size: 25%;
-    flex-basis: 25%;
+    -webkit-flex-basis: 30%;
+    -ms-flex-preferred-size: 30%;
+    flex-basis: 30%;
     height: 15%;
   }
     
